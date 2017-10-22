@@ -1,4 +1,9 @@
-<?php get_header(); ?>
+<?php 
+	
+	// https://www.youtube.com/watch?v=jaREBiXD8Bs
+	
+	get_header(); ?>
+
 
     <div class="white-wrap">
         <div id="app">
